@@ -2,7 +2,7 @@
 
 Submitted by: **Asantwa Smith**
 
-**Trivia App** is an app that ... [Pulls questions from an API and provides 10 random questions for a user to answer] 
+**Trivia App** is an app that Pulls questions from an API and provides 10 random questions for a user to answer.
 
 Time spent: **24** hours spent in total
 
@@ -29,9 +29,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+(https://www.loom.com/share/dd4ec89c079041ae80129d47e27df0c7?sid=476d7bb2-dee8-42a7-81ab-3f2425c208cd) 
 
 ## Notes
 
